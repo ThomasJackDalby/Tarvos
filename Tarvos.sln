@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarvos", "Tarvos\Tarvos.csproj", "{A5EDD6C7-4C83-4488-8C55-0E80A4F2EFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarvos.Test", "Tarvos.Test\Tarvos.Test.csproj", "{B8C17EC9-8CCB-4014-BB71-231EF9C86A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EDD6C7-4C83-4488-8C55-0E80A4F2EFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EDD6C7-4C83-4488-8C55-0E80A4F2EFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EDD6C7-4C83-4488-8C55-0E80A4F2EFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EDD6C7-4C83-4488-8C55-0E80A4F2EFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C17EC9-8CCB-4014-BB71-231EF9C86A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C17EC9-8CCB-4014-BB71-231EF9C86A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C17EC9-8CCB-4014-BB71-231EF9C86A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C17EC9-8CCB-4014-BB71-231EF9C86A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
